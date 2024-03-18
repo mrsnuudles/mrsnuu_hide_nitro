@@ -1,0 +1,3 @@
+[class*="premium"], [class*="nitro"] {
+  display: none !important;
+}
